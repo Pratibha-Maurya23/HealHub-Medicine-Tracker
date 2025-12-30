@@ -22,13 +22,6 @@ It includes separate panels for **Users**, **Pharmacists**, and **Admins** to ma
 - View analytics: total medicines, low-stock alerts, daily updates.  
 - Read-only hospital bed/doctor status for quick reference.  
 
-### 🧑‍💻 Admin Panel
-- Manage and verify pharmacists and hospitals.  
-- Monitor all app activities and system logs.  
-- Track ambulance and hospital network (with map-based simulation).  
-- View statistics via charts (pharmacy activity, user searches, emergencies).  
-- Control system status (mark hospital active/inactive, block pharmacies, etc.)
-
 ---
 
 ## 🧩 Tech Stack
@@ -62,11 +55,6 @@ It includes separate panels for **Users**, **Pharmacists**, and **Admins** to ma
 │ │ ├── Dashboard.jsx
 │ │ ├── ManageMedicine.jsx
 │ │ └── Login.jsx
-│ ├── Admin/
-│ │ ├── AdminDashboard.jsx
-│ │ ├── PharmacistManagement.jsx
-│ │ ├── HospitalTracking.jsx
-│ │ └── Logs.jsx
 │ └── Auth/
 │ ├── Login.jsx
 │ └── Signup.jsx
