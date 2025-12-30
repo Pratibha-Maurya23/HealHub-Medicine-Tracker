@@ -1,7 +1,7 @@
 # 💊 Medicine & Healthcare Availability Tracker
 
 A full-featured web application designed to help users track **medicine availability**, **hospital bed & doctor status**, and **emergency services** (like nearby ambulances and hospitals).  
-It includes separate panels for **Users**, **Pharmacists**, and **Admins** to manage and monitor healthcare resources efficiently.
+It includes separate panels for **Users** and **Pharmacists**, to manage and monitor healthcare resources efficiently.
 
 ---
 
