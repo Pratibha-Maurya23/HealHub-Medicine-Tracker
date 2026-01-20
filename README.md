@@ -103,9 +103,9 @@ http://localhost:5173/
 
 | Role | Name |
 |------|------|
-| **Project Lead / Developer** | Pratibha Maurya |
+| **Project Lead / Backend Developer** | Pratibha Maurya |
 | **Frontend Developer** | Mohd Sami |
-| **Admin / Backend Developer** | Pratibha Maurya |
+| **Ideation** | Mohd Aman  |
 
 ---
 
